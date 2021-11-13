@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ main1()
+comment1.params=
+comment1.target=confirm()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=
+comment3.target=void\ main()
+comment4.params=
+comment4.target=void\ main2()
+comment5.params=
+comment5.target=void\ main3()
+comment6.params=
+comment6.target=void\ SCN()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+comment8.params=
+comment8.target=void\ Confirmation()
+numComments=9
